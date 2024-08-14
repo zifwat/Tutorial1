@@ -1,0 +1,14 @@
+d:\ASSIGNMENT\assign1\question1\bin\Debug\net8.0\question1.exe
+d:\ASSIGNMENT\assign1\question1\bin\Debug\net8.0\question1.deps.json
+d:\ASSIGNMENT\assign1\question1\bin\Debug\net8.0\question1.runtimeconfig.json
+d:\ASSIGNMENT\assign1\question1\bin\Debug\net8.0\question1.dll
+d:\ASSIGNMENT\assign1\question1\bin\Debug\net8.0\question1.pdb
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.GeneratedMSBuildEditorConfig.editorconfig
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.AssemblyInfoInputs.cache
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.AssemblyInfo.cs
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.csproj.CoreCompileInputs.cache
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.dll
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\refint\question1.dll
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.pdb
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\question1.genruntimeconfig.cache
+d:\ASSIGNMENT\assign1\question1\obj\Debug\net8.0\ref\question1.dll
